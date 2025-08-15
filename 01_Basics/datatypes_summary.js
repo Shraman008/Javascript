@@ -5,3 +5,7 @@
 // Reference (Non Primitive)
 
 // Array, Objects, Functions
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (Primitive) , Heap (Non-Primitive)
