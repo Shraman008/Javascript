@@ -1,0 +1,10 @@
+-> document.getElementById('')
+-> document.getElementById('').innerHTML
+-> document.getElementById('').getAttribute('')
+-> document.getElementById('').setAttribute('', '')
+-> document.getElementClassName('')
+-> document.querySelector('')
+
+ley title be the id
+-> title.innerText
+-> title.textContent
